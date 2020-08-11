@@ -1,0 +1,4 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\lib\idea_rt.jar=61327:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\untitled2\out\production\untitled2 HelloWorld
+Hello, world!
+
+Process finished with exit code 0
