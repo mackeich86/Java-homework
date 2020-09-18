@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class FinalTask_2 {
+public class Final_homework_2 {
     // Выбрал сортировку Шелла
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
